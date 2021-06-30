@@ -11,7 +11,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at https://front-end-by-rimantas.github.io/30-grupe-serlokas/
 
-Design: [Serlokas](https://cdn.discordapp.com/attachments/850245533838868480/850246157619298324/404-Web-Page-Design-Examples-6.png)
+Design: [Serlokas] (https://cdn.discordapp.com/attachments/850245533838868480/850246211415834634/unknown.png)
 
 ## Project features
 
@@ -19,3 +19,7 @@ Design: [Serlokas](https://cdn.discordapp.com/attachments/850245533838868480/850
 - desktop only
 - fixed width content
 - transparent images (.png)
+
+## Authors
+
+[Rimantas]

@@ -16,10 +16,22 @@ header > img {
    }
 
 nav {
-
+    float: right;
+    margin-top: 10px;
 }
 
 a {
+    float: left;
+    display: ;
+    padding: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: ;
+    line-height: ;
+    width: 
+    text-decoration: ;
+    border: ;
+    border-radius: ;
 
 }
 

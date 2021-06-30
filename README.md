@@ -18,4 +18,4 @@ Design: [Serlokas](https://cdn.discordapp.com/attachments/850245533838868480/850
 - Github pages
 - desktop only
 - fixed width content
--transparent images (.png)
+- transparent images (.png)
